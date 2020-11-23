@@ -1,0 +1,25 @@
+{
+  "name": "unit-test",
+  "description": "jest + mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "mockjs": "^1.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "commander": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.kingdee.com/ganghuang_wu/unit-test.git"
+  },
+  "keywords": [
+    "unit-test"
+  ],
+  "author": "Johnson",
+  "license": "ISC"
+}
